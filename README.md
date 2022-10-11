@@ -1,2 +1,4 @@
 # accelerate
-this is a accelerate game
+This is a accelerate game
+
+#copyright by shoaib fateh
