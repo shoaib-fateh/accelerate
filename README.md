@@ -1,6 +1,6 @@
-# Game Name
+# Accelerate
 
-Game Name is a simple HTML5 canvas game where the player controls a character and tries to avoid obstacles.
+Accelerate is a simple HTML5 canvas game where the player controls a character and tries to avoid obstacles.
 
 ## How to Play
 
@@ -17,7 +17,7 @@ Game Name is a simple HTML5 canvas game where the player controls a character an
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/shoaib-fateh/accelerate.git`
 2. Open the `index.html` file in a web browser.
 
 ## Contributing
